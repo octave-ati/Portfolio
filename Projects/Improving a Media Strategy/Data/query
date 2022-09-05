@@ -1,0 +1,6 @@
+SELECT (FanNumber - LAG(FanNumber,1,0) OVER (ORDER BY Date)) AS NewSubscribers
+FROM(
+SELECT Date, SUM(NumberOfFans) AS FanNumber
+FROM Project3.FanPerCountry
+GROUP BY Date
+HAVING Date = DATE('2018-09-20') OR Date = DATE('2018-10-11'))
