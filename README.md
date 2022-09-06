@@ -1,4 +1,4 @@
-# 🗺 Portfolio
+# Portfolio
 
 Welcome to my Portfolio where I list the projects that I am able to disclose.
 
