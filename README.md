@@ -4,7 +4,7 @@ Welcome to my Portfolio where I list the projects that I did outside of my work 
 
 Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-antoni/) if you want additional information regarding some of the projects.
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Python](#python)
 - [SQL](#sql)
@@ -15,11 +15,11 @@ Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-an
 
 # Python
 
-Level : Advanced
+Current level: Advanced
 
 Skills: Data analysis, Data cleaning, Data visualization, Machine Learning.
 
-Libraries used : pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib, tqdm
+Libraries used: pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib, tqdm
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
@@ -33,16 +33,16 @@ Libraries used : pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib
 
 # SQL
 
-Level: Advanced
+Current level: Advanced
 
-Databases used : MySQL, PostgreSQL, BigQuery, Apache. 
+Databases used: MySQL, PostgreSQL, BigQuery, Apache. 
 
 **Disclaimer :** Most of my experience in SQL was during my work as a Data Analyst for the French Navy. For obvious security reasons, I am not able to disclose the code of these projects, but I will be able to discuss them during an interview if needed.
 
 
 | Project Name | Description | SQL Level |
 |---|---|---|
-| [Cyclistic Bike Share Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Cyclistic-Data-Analysis-Bike-Share/README.md) | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. | Intermediate |  
+| [Cyclistic Bike Share Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Cyclistic-Data-Analysis-Bike-Share/README.md) | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. SQL was used to extract from a 2GB dataset the most relevant data for further analysis with R. | Intermediate |  
 | [Improving a Media Strategy](https://github.com/Faskill/Portfolio/blob/main/Projects/Improving%20a%20Media%20Strategy/README.md) | This project was the first project of my Bachelor's Degree, it showcases my ability to write beginner level SQL queries, its goal is to increase the audience of a Media Company. | Beginner |  
 
 ***
@@ -51,10 +51,10 @@ Databases used : MySQL, PostgreSQL, BigQuery, Apache.
 
 Level : Intermediate
 
-| Project Name | Description | Visualization |
-|---|---|---|
-| Dental Pharma KPI Dashboard | The goal of this project was to create a dashboard for a Pharmaceutical company by displaying 3 KPIs : costs, delays and deliverables delivered. One of the requirements was interactive thresholds that could allow the leaders of the company to identify the countries not respecting the KPI thresholds | [Dashboard (Redirects to Tableau Public)](https://public.tableau.com/views/DentalPharmaKPIDashboard/CostDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|
-| Cyclistic Bike Share Analysis | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. Tableau was used during this project to produce heatmaps of the most often used stations. | [Visualizations (Redirects to Tableau Public)](https://public.tableau.com/views/CyclisticCaseStudy_16535585507570/MapofCyclisticRidesperMemberType?:language=en-US&:display_count=n&:origin=viz_share_link)|
+| Project Name (Link to Tableau Public) | Description | 
+|---|---|
+| [Dental Pharma KPI Dashboard](https://public.tableau.com/views/DentalPharmaKPIDashboard/CostDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) | The goal of this project was to create a dashboard for a Pharmaceutical company by displaying 3 KPIs : costs, delays and deliverables delivered. One of the requirements was interactive thresholds that could allow the leaders of the company to identify the countries not respecting the KPI thresholds |
+| [Cyclistic Bike Share Analysis Viz](https://public.tableau.com/views/CyclisticCaseStudy_16535585507570/MapofCyclisticRidesperMemberType?:language=en-US&:display_count=n&:origin=viz_share_link) | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. Tableau was used during this project to produce heatmaps of the most often used stations. |
 
 ***
 
@@ -62,10 +62,10 @@ Level : Intermediate
 
 Level: Beginner
 
-Packages used : Tidyverse (dplyr, ggplot), Seaborn, bigrquery
+Packages used: Tidyverse (dplyr, ggplot), Seaborn, bigrquery
 
 |Project Name | Area | Description | Packages |    
 |---|---|---|---|
-| [Cyclistic Bike Share Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Cyclistic-Data-Analysis-Bike-Share/README.md) | Data cleaning, Data Analysis, Data visualization | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. | _tidyverse, bigrquery, wk, dplyr, seaborn, ggplot_ |
+| [Cyclistic Bike Share Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Cyclistic-Data-Analysis-Bike-Share/README.md) | Data cleaning, Data Analysis, Data visualization | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. R was used to perform data analysis during this project. | _tidyverse, bigrquery, wk, dplyr, seaborn, ggplot_ |
 
 ***
