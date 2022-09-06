@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my Portfolio where I list the projects that I am able to disclose.
+Welcome to my Portfolio where I list the projects that I did outside of my work as a Data Analyst in the French Navy.
 
 Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-antoni/) if you want additional information regarding some of the projects.
 
@@ -51,7 +51,7 @@ Databases used : MySQL, PostgreSQL, BigQuery, Apache.
 
 Level : Intermediate
 
-| Project Name | Description | Tableau Dashboard |
+| Project Name | Description | Visualization |
 |---|---|---|
 | Dental Pharma KPI Dashboard | The goal of this project was to create a dashboard for a Pharmaceutical company by displaying 3 KPIs : costs, delays and deliverables delivered. One of the requirements was interactive thresholds that could allow the leaders of the company to identify the countries not respecting the KPI thresholds | [Dashboard (Redirects to Tableau Public)](https://public.tableau.com/views/DentalPharmaKPIDashboard/CostDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|
 | Cyclistic Bike Share Analysis | This is my version of the capstone project for Google's Data Analytics Course, where I use open source data to provide insights about a bike sharing company. Tableau was used during this project to produce heatmaps of the most often used stations. | [Visualizations (Redirects to Tableau Public)](https://public.tableau.com/views/CyclisticCaseStudy_16535585507570/MapofCyclisticRidesperMemberType?:language=en-US&:display_count=n&:origin=viz_share_link)|
