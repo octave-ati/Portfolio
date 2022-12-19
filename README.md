@@ -17,16 +17,27 @@ Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-an
 
 Current level: Advanced
 
-Skills: Data analysis, Data cleaning, Data visualization, Machine Learning.
+Skills: Machine Learning, Deep Learning, Data analysis, Data cleaning, Data visualization,
+Natural Language Processing (NLP), Computer Vision (CV).
 
-Libraries used: pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib, tqdm
-
-| Project Name | Area | Description | Libraries |    
+## Machine Learning
+| Project Name | Area | Description | Libraries / Packages |    
 |---|---|---|---|
-| [Detecting Counterfeit Notes](https://github.com/Faskill/Portfolio/blob/main/Projects/Detecting%20Counterfeit%20Notes/Detect_Counterfeit_Notes.ipynb) | Machine Learning, Logistic Regression | The goal of this project was to use a database of genuine and fake bank notes to build an algorithm to detect counterfeit notes. | _pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib_ |
-| [Analyzing Sales Data](https://github.com/Faskill/Portfolio/blob/main/Projects/Analyzing%20Sales/Analyzing_Sales.ipynb) | Data Analysis, Data Visualization | Analyzing company sales data to highlight areas for improvement and identify potential new markets | _pandas, numpy, sklearn, seaborn, scipy, matplotlib_ |
-| [Conducting a Market Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Conducting%20a%20Market%20Analysis/Conduct_a_market_analysis.ipynb) | Hierarchical Clustering, Principal Component Analysis (PCA) | Using data gathered from the FAO website and clustering methods, the goal of this project was to identify candidate countries for expanding a Chicken export company | _pandas, numpy, sklearn, seaborn, scipy, statsmodels, matplotlib_ |
+| [Designing a Flight Booking Chatbot](https://github.com/Faskill/Designing-a-responsive-Flight-Booking-Chatbot) | Machine Learning, Natural Language Processing, AI | Development of a responsive chatbot using the Microsoft Botframework SDK. | _Microsoft BotFramework, Azure LUIS, Azure Monitor, Opencensus, pandas, numpy, matplotlib_ |
+| [Image Segmentation Model](https://github.com/Faskill/Image-Segmentation-for-Autonomous-Driving-Vehicle) | Machine Learning, Computer Vision, Image Segmentation | As part of a Self Driving Vehicle, design of an Image Segmentation API deployed on Flask. | _Tensorflow, Keras, Flask, Scikit-Image, Albumentations, Open CV, squeezenet, pandas, numpy, matplotlib_ |
+| [Borrower Scoring Algorithm](https://github.com/Faskill/Borrower-Scoring-Algorithm) | Credit Scoring, Machine Learning, Data Preprocessing, Class Imbalance, Hyperparameter Optimization| Creation of a Scoring Algorithm for a Credit Company from a dirty and imbalanced dataset. | _Scikit-learn, Boruta-python, Scikit-Optimize, Imbalanced-learn, Category-encoders, pandas, numpy, matplotlib, seaborn_ |
+| [Twitter Sentiment Analysis](https://github.com/Faskill/Twitter-Sentiment-Analysis) | Natural Language Processing, Deep Learning, Sentiment Analysis | In this project, I develop 3 tiers of Sentiment Analysis tools to classify Twitter posts | _Tensorflow, Keras, BERT, Azure Machine Learning Studio, Scikit-learn, spacy, pandas, numpy, matplotlib_ |
+| [E-Commerce Customer Segmentation](https://github.com/Faskill/E-Commerce-Customer-Segmentation) | Clustering, Hyperparameter Optimization, Data Cleaning| Segmenting a customer Database in order to identify actionnable characteristics that can be used in a marketing campaign| _Scikit-learn, geopy, clusteval, yellowbrick, pandas, numpy, matplotlib, seaborn_ |
+| [Detecting Counterfeit Notes](https://github.com/Faskill/Portfolio/blob/main/Projects/Detecting%20Counterfeit%20Notes/Detect_Counterfeit_Notes.ipynb) | Machine Learning, Logistic Regression | The goal of this project was to use a database of genuine and fake bank notes to build an algorithm to detect counterfeit notes. | _pandas, numpy, scikit-learn, seaborn, scipy, statsmodels, matplotlib_ |
 | [Predicting a Child's Income](https://github.com/Faskill/Portfolio/blob/main/Projects/Predicting%20a%20Child's%20Income/Make_an_income_prediction.ipynb) | Machine Learning, Stochastic Gradient Descent, Linear Regression | During this project based on scientific research, I used data from the Worldbank databank to create a model to predict the income of a child based on the parent's income and the country data (mean income and gini index) | _pandas, sklearn, seaborn, scipy, statsmodels, matplotlib, tqdm_ |
+
+## Data Analysis
+
+| Project Name | Area | Description | Libraries / Packages |    
+|---|---|---|---|
+| [Analyzing Sales Data](https://github.com/Faskill/Portfolio/blob/main/Projects/Analyzing%20Sales/Analyzing_Sales.ipynb) | Data Analysis, Data Visualization | Analyzing company sales data to highlight areas for improvement and identify potential new markets | _pandas, numpy, sklearn, seaborn, scipy, matplotlib_ |
+| [Paris Tree Data Analysis](https://github.com/Faskill/Analyzing-Paris-Tree-Data) | Data Analysis, Data Visualization | Analyzing Paris tree data to identify trends about trees | _pandas, numpy, scikit-learn, scipy, seaborn, matplotlib_ |
+| [Conducting a Market Analysis](https://github.com/Faskill/Portfolio/blob/main/Projects/Conducting%20a%20Market%20Analysis/Conduct_a_market_analysis.ipynb) | Hierarchical Clustering, Principal Component Analysis (PCA) | Using data gathered from the FAO website and clustering methods, the goal of this project was to identify candidate countries for expanding a Chicken export company | _pandas, numpy, scikit-learn, seaborn, scipy, statsmodels, matplotlib_ |
 | [Conducting a Public Health Study](https://github.com/Faskill/Portfolio/blob/main/Projects/World%20Hunger%20Analysis/World_Hunger.ipynb) | Data Analysis, Data Visualization | In this project, I used FAO data to analyze the widespread malnutrition epidemic and communicate my analysis in a Powerpoint presentation. | _pandas, numpy, matplotlib_ |
 
 ***
@@ -37,7 +48,7 @@ Current level: Advanced
 
 Databases used: MySQL, PostgreSQL, BigQuery, Apache. 
 
-**Disclaimer :** Most of my experience in SQL was during my work as a Data Analyst for the French Navy. For obvious security reasons, I am not able to disclose the code of these projects, but I will be able to discuss them during an interview if needed.
+**Disclaimer :** Most of my experience in SQL was during my work as a Data Analyst for the French Navy. For obvious security reasons, I am not able to disclose the code for these projects.
 
 
 | Project Name | Description | SQL Level |
