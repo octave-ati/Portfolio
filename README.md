@@ -11,8 +11,6 @@ Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-an
 - [Tableau](#tableau)
 - [R](#R)
 
-***
-
 # Python
 
 Current level: Advanced
