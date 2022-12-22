@@ -35,7 +35,7 @@ Natural Language Processing (NLP), Computer Vision (CV).
 
 | Project Name | Area | Description | Libraries / Packages |    
 |---|---|---|---|
-| [Analyzing Food Data](https://github.com/Faskill/Analyzing-Food-Products) | Data Cleaning, Data Analysis, Data Visualization | Analyzing open source food data to find out health trends | _pandas, numpy, plotly, scipy, seaborn, matplotlib_ |
+| [Analyzing Food Data](https://github.com/Faskill/Analyzing-Food-Products) | Data Cleaning, Data Analysis, Data Visualization | Analyzing open source food data to identify health trends | _pandas, numpy, plotly, scipy, seaborn, matplotlib_ |
 | [Paris Tree Data Analysis](https://github.com/Faskill/Analyzing-Paris-Tree-Data) | Data Analysis, Data Visualization | Analyzing Paris tree data to identify trends about trees | _pandas, numpy, scikit-learn, scipy, seaborn, matplotlib_ |
 | [Analyzing Sales Data (link to notebook)](https://github.com/Faskill/Portfolio/blob/main/Projects/Analyzing%20Sales/Analyzing_Sales.ipynb) | Data Analysis, Data Visualization | Analyzing company sales data to highlight areas for improvement and identify potential new markets | _pandas, numpy, sklearn, seaborn, scipy, matplotlib_ |
 | [Conducting a Market Analysis (link to notebook)](https://github.com/Faskill/Portfolio/blob/main/Projects/Conducting%20a%20Market%20Analysis/Conduct_a_market_analysis.ipynb) | Hierarchical Clustering, Principal Component Analysis (PCA) | Using data gathered from the FAO website and clustering methods, the goal of this project was to identify candidate countries for expanding a Chicken export company | _pandas, numpy, scikit-learn, seaborn, scipy, statsmodels, matplotlib_ |
