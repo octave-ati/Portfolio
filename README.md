@@ -1,24 +1,24 @@
-# Portfolio
+# :mortar_board: Portfolio 
 
 Welcome to my Portfolio where I list the projects that I did outside of my work as a Data Analyst in the French Navy.
 
 Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-antoni/) if you want additional information regarding some of the projects.
 
-## Table of Contents
+## :blue_book: Table of Contents
 
 - [Python](#python)
 - [SQL](#sql)
 - [Tableau](#tableau)
 - [R](#R)
 
-# Python
+# :snake: Python 
 
 Current level: Advanced
 
 Skills: Machine Learning, Deep Learning, Data analysis, Data cleaning, Data visualization,
 Natural Language Processing (NLP), Computer Vision (CV).
 
-## Machine Learning
+## :computer: Machine Learning
 | Project Name | Area | Description | Libraries / Packages |    
 |---|---|---|---|
 | [Designing a Flight Booking Chatbot](https://github.com/Faskill/Designing-a-responsive-Flight-Booking-Chatbot) | Machine Learning, Natural Language Processing, AI | Development of a responsive chatbot using the Microsoft Botframework SDK. | _Microsoft BotFramework, Azure LUIS, Azure Monitor, Opencensus, pandas, numpy, matplotlib_ |
@@ -31,7 +31,7 @@ Natural Language Processing (NLP), Computer Vision (CV).
 | [Detecting Counterfeit Notes](https://github.com/Faskill/Portfolio/blob/main/Projects/Detecting%20Counterfeit%20Notes/Detect_Counterfeit_Notes.ipynb) | Machine Learning, Logistic Regression | The goal of this project was to use a database of genuine and fake bank notes to build an algorithm to detect counterfeit notes. | _pandas, numpy, scikit-learn, seaborn, scipy, statsmodels, matplotlib_ |
 | [Predicting a Child's Income](https://github.com/Faskill/Portfolio/blob/main/Projects/Predicting%20a%20Child's%20Income/Make_an_income_prediction.ipynb) | Machine Learning, Stochastic Gradient Descent, Linear Regression | During this project based on scientific research, I used data from the Worldbank databank to create a model to predict the income of a child based on the parent's income and the country data (mean income and gini index) | _pandas, sklearn, seaborn, scipy, statsmodels, matplotlib, tqdm_ |
 
-## Data Analysis
+## :bar_chart: Data Analysis
 
 | Project Name | Area | Description | Libraries / Packages |    
 |---|---|---|---|
@@ -43,7 +43,7 @@ Natural Language Processing (NLP), Computer Vision (CV).
 
 ***
 
-# SQL
+# :floppy_disk: SQL
 
 Current level: Advanced
 
@@ -59,7 +59,7 @@ Databases used: MySQL, PostgreSQL, BigQuery, Apache.
 
 ***
 
-# Tableau
+# :chart: Tableau
 
 Level : Intermediate
 
