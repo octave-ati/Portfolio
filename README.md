@@ -19,8 +19,9 @@ Skills: Machine Learning, Deep Learning, Data analysis, Data cleaning, Data visu
 Natural Language Processing (NLP), Computer Vision (CV).
 
 ## :computer: Machine Learning
-| Project Name | Area | Description | Libraries / Packages |    
+| Project Name | Area | Description | Libraries / Packages |
 |---|---|---|---|
+| [ClassifyOps - a MLOps Text Classification Project](https://github.com/Faskill/MLOps-Text-Classification) | Machine Learning, Natural Language Processing, MLOps, CI/CD, Orchestration, DataOps | Deployment of a text classification model using modern MLOps pratices | _Airflow, Airbyte, Feast, BigQuery, DBT, DVC, Pre-commit, nltk, scikit-learn, great-expectations, fastAPI, MLFlow, Optuna _ |
 | [Designing a Flight Booking Chatbot](https://github.com/Faskill/Designing-a-responsive-Flight-Booking-Chatbot) | Machine Learning, Natural Language Processing, AI | Development of a responsive chatbot using the Microsoft Botframework SDK. | _Microsoft BotFramework, Azure LUIS, Azure Monitor, Opencensus, pandas, numpy, matplotlib_ |
 | [Image Segmentation Model](https://github.com/Faskill/Image-Segmentation-for-Autonomous-Driving-Vehicle) | Machine Learning, Computer Vision, Image Segmentation | As part of a Self Driving Vehicle, design of an Image Segmentation API deployed on Flask. | _Tensorflow, Keras, Flask, Scikit-Image, Albumentations, Open CV, squeezenet, pandas, numpy, matplotlib_ |
 | [Yelp reviews Image Classification and Sentiment Analysis](https://github.com/Faskill/Preprocessing-Yelp-Data-for-NLP-and-CV-algorithms) | Image Classification, Natural Language Processing, Topic Identification, Clustering| The goal of this project was to classify Yelp review images as well as find topics of dissatisfaction among negative comments. | _Tensorflow, Keras, Scikit-Learn, Vader Sentiment, BERTopic, HDBScan, Spacy, UMAP-learn, Open CV, category encoders, plotly, pandas, numpy, matplotlib_ |
@@ -33,7 +34,7 @@ Natural Language Processing (NLP), Computer Vision (CV).
 
 ## :bar_chart: Data Analysis
 
-| Project Name | Area | Description | Libraries / Packages |    
+| Project Name | Area | Description | Libraries / Packages |
 |---|---|---|---|
 | [Analyzing Food Data](https://github.com/Faskill/Analyzing-Food-Products) | Data Cleaning, Data Analysis, Data Visualization | Analyzing open source food data to identify health trends | _pandas, numpy, plotly, scipy, seaborn, matplotlib_ |
 | [Paris Tree Data Analysis](https://github.com/Faskill/Analyzing-Paris-Tree-Data) | Data Analysis, Data Visualization | Analyzing Paris tree data to identify trends about trees | _pandas, numpy, scikit-learn, scipy, seaborn, matplotlib_ |
