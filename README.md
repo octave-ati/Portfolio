@@ -1,6 +1,6 @@
 # :mortar_board: Portfolio 
 
-Welcome to my Portfolio where I list the projects that I did outside of my work as a Data Analyst in the French Navy.
+Welcome to my Portfolio where I list the projects that I did outside of my work as a Data Scientist in the French Navy.
 
 Don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/octave-antoni/) if you want additional information regarding some of the projects.
 
